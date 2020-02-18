@@ -8,7 +8,7 @@
     "dev": "webpack-dev-server --open --hot"
   },
   "dependencies": {
-    "@dmm-onk/npm-module-domain": "^1.1.20",
+    "@dmm-onk/npm-module-domain": "^1.1.21",
     "@kt-sygo0921/npm-module-domain": "^1.1.14",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
